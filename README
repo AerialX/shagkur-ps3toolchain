@@ -1,0 +1,7 @@
+This is shagkur's toolchain and newlib port with libsysbase.
+
+A fork of ps3libraries for use with this toolchain can be found here:
+https://github.com/AerialX/shagkur-ps3libraries
+
+Experimental support for this toolchain can be found in a PSL1GHT branch:
+https://github.com/HACKERCHANNEL/PSL1GHT/tree/shagkur-ps3toolchain
